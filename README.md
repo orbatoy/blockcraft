@@ -142,5 +142,8 @@ Keys used: `blockcraft_save_v5`, `blockcraft_save_v5_2`, `blockcraft_slot`, `blo
 - The Text size setting uses the browser `zoom` feature. Some older browsers may ignore it.
 
 ## Licence
-
-Add your licence here.
+Free for education and other noncommercial use under the PolyForm Noncommercial License 1.0.0. See the `LICENSE` file.
+- You can use, copy, share and change BlockCraft for personal, study, hobby and other noncommercial purposes.
+- Schools, colleges, charities, public research organisations and government bodies can use it.
+- Selling it, or using it in a paid product or service, needs separate permission.
+BlockCraft is not affiliated with Mojang or Microsoft.
